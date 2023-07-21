@@ -89,7 +89,7 @@ Imparte: Samuel Garrido
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
-|1|Rene Leonardo Ahumada Lemus                   |||||
+|1|Luna Colmenares Miguel Angel 🤢                  |||||
 |2|Alquicira Peña Luis Enrique                       |||||
 |3|                         |||||
 |4| Carrasco Meza Alan Michel |||||
